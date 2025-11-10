@@ -202,13 +202,13 @@ Linux o Windows, aplicando las recomendaciones teóricas desarrolladas.
 
 -   [[Instituto Nacional de Ciberseguridad (INCIBE).
     > (2023).]{.underline} [*Guía de buenas prácticas en sistemas
-    > operativos*.]{.underline}](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjI9PiciuaQAxX6q5UCHYX4JK4QFnoECBkQAQ&url=https%3A%2F%2Fwww.incibe.es%2Fsites%2Fdefault%2Ffiles%2Fdocs%2Fsenior%2Fguia_ciberseguridad_para_todos.pdf&usg=AOvVaw2ORukEGCzrWmWNsGnGtlGb&opi=89978449)
+    > operativos*.]](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjI9PiciuaQAxX6q5UCHYX4JK4QFnoECBkQAQ&url=https%3A%2F%2Fwww.incibe.es%2Fsites%2Fdefault%2Ffiles%2Fdocs%2Fsenior%2Fguia_ciberseguridad_para_todos.pdf&usg=AOvVaw2ORukEGCzrWmWNsGnGtlGb&opi=89978449)
 
 -   [[Universidad Carlos III de Madrid.Introducción a la Seguridad -SISTEMAS
-    > OPERATIVOS]{.underline}](https://ocw.uc3m.es/pluginfile.php/3335/mod_page/content/19/introduccion_seguridad.pdf)
+    > OPERATIVOS]](https://ocw.uc3m.es/pluginfile.php/3335/mod_page/content/19/introduccion_seguridad.pdf)
 
 -   [[Universidad Nacional Del Sur. Seguridad y
-    > Proteccion]{.underline}](https://cs.uns.edu.ar/~so/data/apuntes/SO-2020-mod%2013.pdf)
+    > Proteccion]](https://cs.uns.edu.ar/~so/data/apuntes/SO-2020-mod%2013.pdf)
 
 -   [[BlueHosting.Conceptos básicos de seguridad en
-    > Linux]{.underline}](https://docs.bluehosting.cl/tutoriales/servidores/conceptos-basicos-de-seguridad-en-linux.html)
+    > Linux]](https://docs.bluehosting.cl/tutoriales/servidores/conceptos-basicos-de-seguridad-en-linux.html)
