@@ -1,8 +1,8 @@
 # 
 
-# *[Seguridad en la Configuración de Sistemas Operativos]{.underline}*
+# *[Seguridad en la Configuración de Sistemas Operativos]*
 
-**✏️ Datos Generales**
+## **✏️ Datos Generales**
 
 **Título del trabajo**: Seguridad en la configuración de sistemas
 operativos
@@ -36,7 +36,7 @@ Santino Naldini /santinaldini8@gmail.com
 
 **8. Anexos**
 
-**1. Introducción**
+## **1. Introducción**
 
 La seguridad en la configuración de los sistemas operativos constituye
 uno de los pilares fundamentales en el ámbito de la arquitectura de las
@@ -197,16 +197,14 @@ Linux o Windows, aplicando las recomendaciones teóricas desarrolladas.
 -   Red Hat Documentation. *Security and Hardening Guide*.
     > [[https://access.redhat.com/documentation]{.underline}](https://access.redhat.com/documentation)
 
--   Microsoft Learn. (2024). *Security best practices for Windows
-    > Server*.
+-   Microsoft Learn. (2024). *Security best practices for WindowsServer*.
     > [[https://learn.microsoft.co](https://learn.microsoft.com)m]{.underline}
 
 -   [[Instituto Nacional de Ciberseguridad (INCIBE).
     > (2023).]{.underline} [*Guía de buenas prácticas en sistemas
     > operativos*.]{.underline}](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjI9PiciuaQAxX6q5UCHYX4JK4QFnoECBkQAQ&url=https%3A%2F%2Fwww.incibe.es%2Fsites%2Fdefault%2Ffiles%2Fdocs%2Fsenior%2Fguia_ciberseguridad_para_todos.pdf&usg=AOvVaw2ORukEGCzrWmWNsGnGtlGb&opi=89978449)
 
--   [[Universidad Carlos III de Madrid.Introducción a la Seguridad -
-    > SISTEMAS
+-   [[Universidad Carlos III de Madrid.Introducción a la Seguridad -SISTEMAS
     > OPERATIVOS]{.underline}](https://ocw.uc3m.es/pluginfile.php/3335/mod_page/content/19/introduccion_seguridad.pdf)
 
 -   [[Universidad Nacional Del Sur. Seguridad y
